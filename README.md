@@ -8,6 +8,13 @@
     <title>Attendence</title>
     <link rel="stylesheet" href="Atte.css">
 </head>
+<style>
+iframe {
+height:1000px ;
+width:700px ;
+}
+</style>
+
 
 <body>
 
